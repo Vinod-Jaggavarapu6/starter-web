@@ -15,3 +15,5 @@ Sample website with plenty of files for demos
 ## Hot To Contribute
 
     <p>Clone the repo and make a PR</p>
+
+2023 Git.Training.
